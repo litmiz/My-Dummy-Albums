@@ -16,9 +16,26 @@ h1 {
     margin-left: 10px;
     margin-right: 10px;
     margin-bottom: 30px;
-    font-size: 20px;
+    font-size: 25px;
     font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
     border-radius: 12px;
     background-color: #b0d7f5;
     border: none;
+}
+
+.albumBtn p {
+    font-size: 18px;
+}
+
+.picDiv {
+    display: inline-block;
+    width: 25%;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.picDiv img {
+    width: 50%;
+    height: 50%;
 }
