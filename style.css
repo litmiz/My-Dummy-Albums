@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+    background-color: #677592;
+}
+
+h1 {
+    font-size: 50px;
+    text-decoration: underline;
+    margin-bottom: 40px;
+}
+
+.albumBtn {
+    width: 30%;
+    height: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    font-size: 20px;
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+    border-radius: 12px;
+    background-color: #b0d7f5;
+    border: none;
+}
